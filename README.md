@@ -18,7 +18,7 @@ A simple popup chat interface using the Kagi FastGPT API, designed to be toggled
     ```
 
 4.  **Configure Toggle Script:**
-    Edit `kagi-fastgpt-hyprland/toggle_chat.sh` and set `PYTHON_SCRIPT_PATH` to the path of `fastgpt/main.py`. For example:
+    Edit `kagi-fastgpt-hyprland/toggle_chat.sh` and set `PYTHON_SCRIPT_PATH` to the path of `kagi-fastgpt-hyprland/main.py`. For example:
     ```bash
     PYTHON_SCRIPT_PATH="/home/$USER/kagi-fastgpt-hyprland/main.py"
     ```
